@@ -1,1 +1,1 @@
-# wp_npm_git_activity
+# Web Portfolio: GIT and NPM Activity
