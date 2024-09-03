@@ -1,0 +1,20 @@
+{
+  "name": "npm_git_activity",
+  "version": "1.0.0",
+  "description": "NPM and GIT activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "live-server"
+},
+  "keywords": [],
+  "author": "Ericca_Apostol",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "tailwindcss": "^3.4.10"
+  }
+}
